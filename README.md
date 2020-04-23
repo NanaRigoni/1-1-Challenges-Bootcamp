@@ -1,3 +1,4 @@
+align="center"
 ![](https://github.com/NanaRigoni/1-1-Challenges-Bootcamp/blob/master/capa-readme.png)
 
 # Readme
