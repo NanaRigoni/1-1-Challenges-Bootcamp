@@ -1,6 +1,6 @@
-![](https://github.com/NanaRigoni/1-1-Challenges-Bootcamp/blob/master/capa-readme.png)
-
-# Readme
+<h1 align="center">
+    <img alt="Launchbase" src="https://github.com/NanaRigoni/1-1-Challenges-Bootcamp/blob/master/capa-readme.png" />
+</h1>
 
 Estou fazendo aulas no BootCamp Launchbase da Rocketseat. 
 No bootcamp somos desafiados a fazer alguns exercícios e postar aqui no GitHub. Em cada módulo do curso há novos desafios, portanto ao longo do curso é possível notar um aumento progressivo de dificuldade.
